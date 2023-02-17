@@ -1,0 +1,28 @@
+[
+    {
+        "_id":"5f0f36345628b2bb08ddcf83",
+        "firstName": "Marina",
+        "lastName": "Orozco",
+        "email": "marina@ankorainc.com"
+
+    },
+    {
+        "_id": "5f0f3634a3357afc09a0333d",
+        "firstName": "Kip",
+        "lastName": "Winters",
+        "email": "kip@ankorainc.com"
+    },
+    
+    {
+        "_id": "5f0f36343311956754254404",
+        "firstName": "Jasmin",
+        "lastName": "Winters",
+        "email": "jasmin@ankorainc.com"
+    }
+    
+    
+    
+    
+   
+]
+

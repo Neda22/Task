@@ -1,0 +1,27 @@
+[
+    {
+        "email": "marina@ankorainc.com",
+        "phoneNumbers": {
+            "type": "primary",
+            "value": "202-555-0105"
+    }
+    },
+    {
+        "email": "kip@ankorainc.com",
+        "phoneNumbers": {
+            "type": "primary",
+            "value": "202-555-0168"
+    }
+        
+    },
+   
+    {
+        "email": "jasmin@ankorainc.com",
+        "phoneNumbers": {
+            "type": "primary",
+            "value": "202-555-0168"
+    }  
+       
+    }
+
+]
